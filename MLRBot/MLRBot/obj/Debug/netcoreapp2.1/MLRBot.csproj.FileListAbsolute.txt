@@ -1,0 +1,11 @@
+C:\Users\Mike\source\repos\MLRBot\MLRBot\bin\Debug\netcoreapp2.1\MLRBot.dll
+C:\Users\Mike\source\repos\MLRBot\MLRBot\bin\Debug\netcoreapp2.1\MLRBot.deps.json
+C:\Users\Mike\source\repos\MLRBot\MLRBot\bin\Debug\netcoreapp2.1\MLRBot.runtimeconfig.json
+C:\Users\Mike\source\repos\MLRBot\MLRBot\bin\Debug\netcoreapp2.1\MLRBot.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\MLRBot\MLRBot\obj\Debug\netcoreapp2.1\MLRBot.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\MLRBot\MLRBot\obj\Debug\netcoreapp2.1\MLRBot.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\MLRBot\MLRBot\obj\Debug\netcoreapp2.1\MLRBot.AssemblyInfo.cs
+C:\Users\Mike\source\repos\MLRBot\MLRBot\obj\Debug\netcoreapp2.1\MLRBot.dll
+C:\Users\Mike\source\repos\MLRBot\MLRBot\obj\Debug\netcoreapp2.1\MLRBot.pdb
+C:\Users\Mike\source\repos\MLRBot\MLRBot\bin\Debug\netcoreapp2.1\MLRBot.pdb
+C:\Users\Mike\source\repos\MLRBot\MLRBot\obj\Debug\netcoreapp2.1\MLRBot.csprojAssemblyReference.cache
